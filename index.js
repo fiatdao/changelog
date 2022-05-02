@@ -1,5 +1,5 @@
-const mainnet = require('./mainnet.json');
-const goerli = require('./goerli.json');
+const mainnet = require('./metadata/mainnet.json');
+const goerli = require('./metadata/goerli.json');
 
 module.exports = {
   mainnet: mainnet,
