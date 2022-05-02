@@ -1,0 +1,13 @@
+{
+  "name": "@fiatdao/changelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fiatdao/changelog"
+  },
+  "author": "Fiat DAO",
+  "license": "ISC"
+}
