@@ -14,7 +14,7 @@
   "0xfC585dC29FB6e1700A98Fd6675C211161556a1F5": {
     "563373963149313": {
       "protocol": "Notional Finance",
-      "symbol": "Dai Principal Token",
+      "symbol": "DAI Principal Token",
       "decimals": 18,
       "name": "vaultFC_fDAI_3MONTH",
       "icons": {
