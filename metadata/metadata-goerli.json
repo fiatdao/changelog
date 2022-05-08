@@ -15,7 +15,7 @@
     "563373963149313": {
       "protocol": "Notional Finance",
       "symbol": "DAI fCash",
-      "decimals": 18,
+      "decimals": 8,
       "name": "vaultFC_fDAI_3MONTH",
       "icons": {
         "main": "data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMyOGIwZTYiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PGcgZmlsbC1vcGFjaXR5PSIuNiI+PHBhdGggZD0ibTIwIDBoLTEuODE4MnYxOC4xNjc4bDEuODE4MiAxLjgzMjF6Ii8+PHBhdGggZD0ibTE2LjM2MzYgMGgtMS44MTgydjE0LjUwMzhsMS44MTgyIDEuODMxOXoiLz48cGF0aCBkPSJtMTIuNzI3NCAwaC0xLjgxODJ2MTAuODM5NmwxLjgxODIgMS44MzIxeiIvPjwvZz48cGF0aCBkPSJtNy4yNzIyOCA3LjI1MTcxdjEyLjc0Nzg5aDEuODE4MTd2LTEwLjkxNTg2eiIvPjxwYXRoIGQ9Im0zLjYzNzI3IDMuNTg3NjV2MTYuNDEyNDVoMS44MTgxNnYtMTQuNTgwNDJ6Ii8+PHBhdGggZD0ibS4wNzYzMjU0IDBoLS4wNzYzMjU0djE5Ljk5OTdoMS44MTgxN3YtMTguMjQ0NTd6Ii8+PC9nPjwvc3ZnPg==",
