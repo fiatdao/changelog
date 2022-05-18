@@ -2,7 +2,7 @@
   "0xd9080bac070cf47cbdb7223d2440cf8e978e6b45": {
     "0": {
       "protocol": "Element Finance",
-      "asset": "USDC Principal Token",
+      "asset": "USDC-APR22",
       "symbol": "ePyvUSDC",
       "decimals": 6,
       "name": "vaultEPT_ePyvUSDC_29APR22",
@@ -19,7 +19,7 @@
   "0xea016f6a5eaac396baa3aa712e8d3f20764cbb1f": {
     "0": {
       "protocol": "Element Finance",
-      "asset": "DAI Principal Token",
+      "asset": "DAI-APR22",
       "symbol": "ePyvDAI",
       "decimals": 18,
       "name": "VaultEPT_ePyvDAI_29APR22",
@@ -36,7 +36,7 @@
   "0x222dee6192f946040f97aadb386fafa4e6310cdc": {
     "0": {
       "protocol": "Element Finance",
-      "asset": "LUSD3CRV Principal Token",
+      "asset": "LUSD3CRV-APR22",
       "symbol": "ePyvLUSD3CRV",
       "decimals": 18,
       "name": "VaultEPT_ePyvLUSD3CRV_29APR22",
@@ -53,7 +53,7 @@
   "0x4465476275E1201F2E5Ab9479E6a51c7875Ce700": {
     "0": {
       "protocol": "Element Finance",
-      "asset": "USDC Principal Token",
+      "asset": "USDC-SEP22",
       "symbol": "ePyvUSDC",
       "decimals": 6,
       "name": "vaultEPT_ePyvUSDC_16SEP22",
@@ -70,7 +70,7 @@
   "0xb6922A39C85a4E838e1499A8B7465BDca2E49491": {
     "0": {
       "protocol": "Element Finance",
-      "asset": "DAI Principal Token",
+      "asset": "DAI-SEP22",
       "symbol": "ePyvDAI",
       "decimals": 18,
       "name": "VaultEPT_ePyvDAI_16SEP22",
@@ -87,7 +87,7 @@
   "0xE486a875367875a7Ec1DfE40510B6Ed217849737": {
     "0": {
       "protocol": "Element Finance",
-      "asset": "LUSD3CRV Principal Token",
+      "asset": "LUSD3CRV-SEP22",
       "symbol": "ePyvLUSD3CRV",
       "decimals": 18,
       "name": "VaultEPT_ePyvLUSD3CRV_16SEP22",
@@ -104,7 +104,7 @@
   "0x542263087f42808d8763f55d41ebb45070671c2a": {
     "844848939859969": {
       "protocol": "Notional Finance",
-      "asset": "USDC fCash Token",
+      "asset": "USDC-3M",
       "symbol": "fUSDC",
       "decimals": 8,
       "name": "vaultFC_fUSDC_3MONTH",
@@ -122,7 +122,7 @@
   "0xab7B8654C68a17892f7db8B6e3E66FcA86965D06": {
     "844850930515969": {
       "protocol": "Notional Finance",
-      "asset": "USDC fCash Token",
+      "asset": "USDC-6M",
       "symbol": "fUSDC",
       "decimals": 8,
       "name": "vaultFC_fUSDC_6MONTH",
@@ -140,7 +140,7 @@
   "0x7E07b849217b18e77c0965944a0B816425b135Fe": {
     "844854911827969": {
       "protocol": "Notional Finance",
-      "asset": "USDC fCash Token",
+      "asset": "USDC-12M",
       "symbol": "fUSDC",
       "decimals": 8,
       "name": "vaultFC_fUSDC_12MONTH",
@@ -158,7 +158,7 @@
   "0x61d677f13375aFae237A20C3F47843fF982339Fe": {
     "563373963149313": {
       "protocol": "Notional Finance",
-      "asset": "DAI fCash Token",
+      "asset": "DAI-3M",
       "symbol": "fDAI",
       "decimals": 8,
       "name": "vaultFC_fDAI_3MONTH",
@@ -176,7 +176,7 @@
   "0x27fB9C8DDE4fE79B687304D9971032a181c7F3a0": {
     "563375953805313": {
       "protocol": "Notional Finance",
-      "asset": "DAI fCash Token",
+      "asset": "DAI-6M",
       "symbol": "fDAI",
       "decimals": 8,
       "name": "vaultFC_fDAI_6MONTH",
@@ -194,7 +194,7 @@
   "0x87cbb9967F4c38c2b1A7b6596e8cAb26af7e8D83": {
     "563379935117313": {
       "protocol": "Notional Finance",
-      "asset": "DAI fCash Token",
+      "asset": "DAI-12M",
       "symbol": "fDAI",
       "decimals": 8,
       "name": "vaultFC_fDAI_12MONTH",
